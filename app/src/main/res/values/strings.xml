@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Social-Media-Integration</string>
+
+    <string name="sign_in_account">Sign in to your</string>
+    <string name="register_text"><u>Register Now</u></string>
+
+    <string name="login_app_name">Login App</string>
+
+
+    <string name="facebook_app_id">5210540902316750</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
